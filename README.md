@@ -30,6 +30,7 @@
 - [console-emojis](https://github.com/jaywcjlove/console-emojis) <img align="bottom" height="13" src="https://img.shields.io/github/stars/jaywcjlove/console-emojis.svg?label=" /> - 使用表情符号自定义控制台日志记录。 [![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/console-emojis)
 - [colors-cli](https://github.com/jaywcjlove/colors-cli) <img align="bottom" height="13" src="https://img.shields.io/github/stars/jaywcjlove/colors-cli.svg?label=" /> - 给命令行终端字符串设置样式和颜色。 [![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/colors-cli)
 - [docker-tutorial](https://github.com/jaywcjlove/docker-tutorial) <img align="bottom" height="13" src="https://img.shields.io/github/stars/jaywcjlove/docker-tutorial.svg?label=" /> - Docker 入门教程读书笔。 [![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/docker-tutorial)
+- [docs](https://github.com/jaywcjlove/docs) <img align="bottom" height="13" src="https://img.shields.io/github/stars/jaywcjlove/docs.svg?label=" /> - 通过 docker 集中化管理各种文档。 [![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/docker-tutorial)
 - [FED](https://github.com/jaywcjlove/FED) <img align="bottom" height="13" src="https://img.shields.io/github/stars/jaywcjlove/FED.svg?label=" /> - 很酷炫的前端网站搜集器，导航网。 [![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/FED)
 - [github-rank](http://jaywcjlove.github.io/github-rank/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/jaywcjlove/github-rank.svg?label=" /> - Github用户排名，仓库排名趋势榜。 [![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/github-rank)
 - [golang-tutorial](https://github.com/jaywcjlove/golang-tutorial) <img align="bottom" height="13" src="https://img.shields.io/github/stars/jaywcjlove/golang-tutorial.svg?label=" /> - Golang 入门教程读书笔。 [![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/golang-tutorial)
@@ -47,6 +48,7 @@
 - [package.json](https://github.com/jaywcjlove/package.json) <img align="bottom" height="13" src="https://img.shields.io/github/stars/jaywcjlove/package.json.svg?label=" /> - 文件 package.json 的说明文档。 [![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/package.json)
 - [svgtofont](https://github.com/jaywcjlove/svgtofont) <img align="bottom" height="13" src="https://img.shields.io/github/stars/jaywcjlove/svgtofont.svg?label=" /> - 读取一组SVG图标并输出 TTF/EOT/WOFF/WOFF2/SVG 字体。 [![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/svgtofont)
 - [react-monacoeditor](https://github.com/jaywcjlove/react-monacoeditor) <img align="bottom" height="13" src="https://img.shields.io/github/stars/jaywcjlove/react-monacoeditor.svg?label=" /> - React的 Monaco Editor 编辑器组件。 [![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/react-monacoeditor)
+- [react-native](https://github.com/jaywcjlove/react-native) <img align="bottom" height="13" src="https://img.shields.io/github/stars/jaywcjlove/react-native.svg?label=" /> - React Native 的各种问题搜集。 [![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/react-monacoeditor)
 - [ssr](https://github.com/jaywcjlove/ssr) <img align="bottom" height="13" src="https://img.shields.io/github/stars/jaywcjlove/ssr.svg?label=" /> - 工具 SSR 用于快速原型设计的开发服务器。 [![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/ssr) ![hot][hot Icon]
 - [store.js](https://github.com/jaywcjlove/store.js) <img align="bottom" height="13" src="https://img.shields.io/github/stars/jaywcjlove/store.js.svg?label=" /> - 本地存储localStorage的封装，提供简单的API，没有依赖。 [![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/store.js)
 - [shell-tutorial](https://github.com/jaywcjlove/shell-tutorial) <img align="bottom" height="13" src="https://img.shields.io/github/stars/jaywcjlove/shell-tutorial.svg?label=" /> - Shell 入门教程学习笔记。 [![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/shell-tutorial)
@@ -105,9 +107,9 @@ Redis是一个开源的，先进的 key-value 存储可用于构建高性能的�
 
 ## 快捷键
 
-- [Sketch设计软件快捷键](https://github.com/jaywcjlove/handbook/blob/f927defdc74fc3adfeb4f2764893426685284327/md/Shortcuts/Sketch.md)
+- [Sketch 设计软件快捷键](https://github.com/jaywcjlove/handbook/blob/f927defdc74fc3adfeb4f2764893426685284327/md/Shortcuts/Sketch.md)
 - [命令行工具bash快捷键](https://github.com/jaywcjlove/handbook/blob/f927defdc74fc3adfeb4f2764893426685284327/md/Shortcuts/bash.md)
-- [Sublime编辑器快捷键](https://github.com/jaywcjlove/handbook/blob/f927defdc74fc3adfeb4f2764893426685284327/md/Shortcuts/sublime.md)
+- [Sublime 编辑器快捷键](https://github.com/jaywcjlove/handbook/blob/f927defdc74fc3adfeb4f2764893426685284327/md/Shortcuts/sublime.md)
 
 ## 其它
 

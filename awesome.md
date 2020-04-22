@@ -36,7 +36,9 @@
 - [draw.io](https://www.draw.io) 免费的在线图表软件，用于制作流程图，流程图，组织结构图，UML，ER和网络图
 - [Pixel Art to CSS](https://www.pixelartcss.com/) 是一个在线像素风绘图工具 [![Open-Source Software][OSS Icon]](https://github.com/jvalen/pixel-art-react)
 - [codeimg.io](https://codeimg.io/) 把源代码变成漂亮的图片的工具
-
+- [Pixlr X](https://pixlr.com/x) 基于 Canvas 和 WebGL 的在线图像编辑器。
+- [Terrastruct](https://terrastruct.com/) 一个在线的架构图、流程图工具。
+- [Excalidraw](https://github.com/excalidraw/excalidraw) 非常简单易用的白板绘图开源工具
 
 ## 文档工具
 
@@ -49,6 +51,7 @@
 
 ## 工具
 
+- [BundlePhobia](https://bundlephobia.com/) 查看添加 npm 软件包的成本。
 - [npmview](https://npmview.now.sh/) 让你查看 npm 模块里面包含了什么文件。
 - [pagemap](https://github.com/lrsjng/pagemap) 在网页插入迷你的页面缩略导航图，可以点击这个图的不同部分，实现快速导航。
 - [termtosvg](https://github.com/nbedos/termtosvg) 将你的终端会话录制成一个单独的 SVG 动画。
@@ -69,6 +72,7 @@
 - [jsfiddle](https://jsfiddle.net) 在线编辑器
 - [runjs](https://runjs.cn/) 在线编辑器
 - [jsrun](http://jsrun.net) 在线编辑器，支持多种语言
+- [JSON Generator](https://next.json-generator.com) 生成虚拟 JSON 数据的在线工具
 
 ## 正则表达式工具
 
@@ -86,6 +90,12 @@
 - [GitHub，前端JavaScript框架](https://github.com/showcases/front-end-javascript-frameworks)
 - [gitignore.io](https://gitignore.io/) 生成 gitignore 文件的网站。
 
+## 办公类应用
+
+- [OpenVidu](https://github.com/OpenVidu/openvidu) 开源的视频会议软件，使用 WebRTC 技术。
+- [BigBlueButton](https://github.com/bigbluebutton/bigbluebutton) 开源的远程教育软件，也可用作视频会议。
+- [Jira clone](https://github.com/oldboyxx/jira_clone) 使用 React + Node.js 写的项目管理工具 Jira 的克隆。
+
 ## 其它
 
 - [foldnfly](https://www.foldnfly.com) 收集纸飞机折纸方法的网站，目前有40种纸飞机。
@@ -94,9 +104,10 @@
 - [NginxConfig](https://nginxconfig.io/) Nginx配置在线极速生成“神器”
 - [i18ns](https://i18ns.com/) 一个免费的i18n翻译搜索引擎
 - [TableConvert](https://tableconvert.com/) Markdown表格编辑器，可通过导入json、csv、excel、html table生成Markdown表格。
-- [基于时间版本控制规范](https://chronver.org/)
-- [语义化版本 2.0.0 语义化版本规范](https://semver.org/lang/zh-CN/)
-
+- [Chronologic Versioning](https://chronver.org/) 基于时间版本控制规范
+- [semver](https://semver.org/lang/zh-CN/) 语义化版本 2.0.0 语义化版本规范
+- [Snip](https://mathpix.com/) 将打印的数学公式转成 LaTex 代码的工具。
+- [NodeTube](https://github.com/mayeaux/nodetube) 一个可以自己架设的 Youtube 替代品，可以上传视频在网页观看，基于 Node.js。
 
 
 
